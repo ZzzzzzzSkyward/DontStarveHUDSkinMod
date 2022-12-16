@@ -1,0 +1,6 @@
+<Atlas>
+<Texture filename="ba.tex" />
+    <Elements>
+        <Element name="ba.tex" u1="0.00024414063" u2="0.62475586" v1="0.29736328" v2="0.99951172"/>
+    </Elements>
+</Atlas>

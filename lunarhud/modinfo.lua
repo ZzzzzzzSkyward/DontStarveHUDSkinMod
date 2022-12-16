@@ -1,0 +1,13 @@
+name = "Lunar HUD"
+author ="POWD3d4, Cunning fox, Asura"
+version = "1.0"
+description = "Changes the Don't Starve HUD to a Lunar theme. \n\nVersion: "..version
+forumthread = ""
+priority=-1000
+icon_atlas = "images/modicon.xml"
+icon = "modicon.tex"
+api_version = 6
+dont_starve_compatible = true
+reign_of_giants_compatible = true
+shipwrecked_compatible = true
+hamlet_compatible = true

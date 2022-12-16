@@ -1,0 +1,6 @@
+﻿<Atlas>
+	<Texture filename="1x1.tex" />
+	<Elements>
+		<Element name="1x1.tex" u1="0.001" u2="0.545875" v2="0.999" v1="0.454125" variant="" />
+	</Elements>
+</Atlas>

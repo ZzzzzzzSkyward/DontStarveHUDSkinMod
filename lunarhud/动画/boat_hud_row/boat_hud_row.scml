@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+	<folder id="0" name="rowboat">
+		<file id="0" name="rowboat/rowboat-0.png" width="348" height="164" pivot_x="0.507182" pivot_y="0.20046" />
+	</folder>
+	<entity id="0" name="boat_hud_row">
+		<animation id="0" name="close_90s" length="300">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="1" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="1" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="1" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="1" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="1" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="1" />
+				</key>
+				<key id="7" time="234">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="7" z_index="1" />
+				</key>
+				<key id="8" time="267" />
+				<key id="9" time="300" />
+			</mainline>
+			<timeline id="0" name="rowboat">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-4.65" scale_x="0.96814" scale_y="1.01752" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-0.7" scale_x="0.872589" scale_y="1.07082" angle="0" />
+				</key>
+				<key id="3" time="100" spin="1">
+					<object folder="0" file="0" x="-74.949" y="5.999" scale_x="0.713318" scale_y="1.15965" angle="0" />
+				</key>
+				<key id="4" time="134" spin="1">
+					<object folder="0" file="0" x="-74.999" y="-50.85" scale_x="0.641815" scale_y="1.08969" angle="0" />
+				</key>
+				<key id="5" time="167" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-91.45" scale_x="0.590759" scale_y="1.03972" angle="0" />
+				</key>
+				<key id="6" time="200" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-115.9" scale_x="0.560104" scale_y="1.00974" angle="0" />
+				</key>
+				<key id="7" time="234" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-124" scale_x="0.549896" scale_y="0.999756" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+		<animation id="1" name="idle_90s" length="200">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1" />
+				</key>
+				<key id="1" time="34">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="1" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="1" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="1" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="1" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="1" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="1" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rowboat">
+				<key id="0" time="0" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="1" time="34" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="2" time="67" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="3" time="100" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="4" time="134" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="5" time="167" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="6" time="200" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-6" scale_x="1" scale_y="0.999756" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+		<animation id="2" name="open_90s" length="334">
+			<mainline>
+				<key id="0" time="0" />
+				<key id="1" time="34">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="1" />
+				</key>
+				<key id="2" time="67">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="1" z_index="1" />
+				</key>
+				<key id="3" time="100">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="2" z_index="1" />
+				</key>
+				<key id="4" time="134">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="3" z_index="1" />
+				</key>
+				<key id="5" time="167">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="4" z_index="1" />
+				</key>
+				<key id="6" time="200">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="5" z_index="1" />
+				</key>
+				<key id="7" time="234">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="6" z_index="1" />
+				</key>
+				<key id="8" time="267">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="7" z_index="1" />
+				</key>
+				<key id="9" time="300">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="8" z_index="1" />
+				</key>
+				<key id="10" time="334">
+					<object_ref id="0" name="rowboat" abs_x="0" abs_y="0" abs_pivot_x="0.507182" abs_pivot_y="0.20046" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="9" z_index="1" />
+				</key>
+			</mainline>
+			<timeline id="0" name="rowboat">
+				<key id="0" time="34" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-124" scale_x="0.774796" scale_y="0.999756" angle="0" />
+				</key>
+				<key id="1" time="67" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-53.95" scale_x="0.753098" scale_y="1.08859" angle="0" />
+				</key>
+				<key id="2" time="100" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-12" scale_x="0.740082" scale_y="1.14189" angle="0" />
+				</key>
+				<key id="3" time="134" spin="1">
+					<object folder="0" file="0" x="-74.949" y="1.999" scale_x="0.735748" scale_y="1.15965" angle="0" />
+				</key>
+				<key id="4" time="167" spin="1">
+					<object folder="0" file="0" x="-74.999" y="-20" scale_x="0.875488" scale_y="0.991806" angle="0" />
+				</key>
+				<key id="5" time="200" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-42" scale_x="1.01521" scale_y="0.823944" angle="0" />
+				</key>
+				<key id="6" time="234" spin="1">
+					<object folder="0" file="0" x="-74.899" y="-26.25" scale_x="1.00856" scale_y="0.900864" angle="0" />
+				</key>
+				<key id="7" time="267" spin="1">
+					<object folder="0" file="0" x="-74.899" y="-15" scale_x="1.0038" scale_y="0.955811" angle="0" />
+				</key>
+				<key id="8" time="300" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-8.25" scale_x="1.00095" scale_y="0.98877" angle="0" />
+				</key>
+				<key id="9" time="334" spin="1">
+					<object folder="0" file="0" x="-74.949" y="-8.25" scale_x="1.00095" scale_y="0.98877" angle="0" />
+				</key>
+			</timeline>
+		</animation>
+	</entity>
+</spriter_data>

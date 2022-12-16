@@ -1,0 +1,26 @@
+需要改的地方：
+1.状态栏：饥饿、理智、血量、潮湿、活体机甲、木头、船
+方法：隐藏老的边框，加一个新的边框，把Combined Status的图层挪到新边框上面
+潮湿badge是单独的，要特殊处理
+2.月亮
+方法：改tex贴图，只需要两张，每个月相60x60，需要对齐
+注意血月_wane的贴图包不要带build.bin，否则哈姆雷特DLC崩溃。具体为什么鬼知道，反正Nightmare HUD是这么干的
+3.船
+筏raft
+划船row
+货船cargo
+装甲船encrusted
+方法：解包动画，直接改png图片，然后编译
+▶直接改atlas-0.tex就行了！（我已经转换成png了）
+4.船的装备栏
+方法：做68x68png图片，然后转换成tex
+5.UI
+Wheeler人物的特殊格子，hud.xml里的single.tex
+软木桶和帆布包的1x4动画，解包动画，直接改png图片，然后编译
+
+图片制作方法：tex转png→ps→png转tex(+xml)
+动画制作方法：解压zip→krane→用spriter查看→autocompiler打包成zip
+
+注意
+a.不要加Asset，把优先级调低自动覆盖高优先级mod的素材。
+b.加的Asset要保证不和其他联机mod冲突

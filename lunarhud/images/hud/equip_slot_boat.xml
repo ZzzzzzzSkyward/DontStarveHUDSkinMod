@@ -1,0 +1,7 @@
+<Atlas>
+    <Texture filename="equip_slot_boat.tex"/>
+    <Elements>
+        <Element name="equip_slot_boat_light.tex" u1="0.001953125" u2="0.26367188" v1="0.47265625" v2="0.99609375"/>
+        <Element name="equip_slot_boat_utility.tex" u1="0.26757813" u2="0.52929688" v1="0.47265625" v2="0.99609375"/>
+    </Elements>
+</Atlas>
